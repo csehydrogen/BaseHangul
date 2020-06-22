@@ -6,7 +6,7 @@
 
 ```bash
 $ git clone https://github.com/csehydrogen/BaseHangul.git
-$ pip install ~/BaseHangul
+$ pip install -e BaseHangul
 ```
 
 ## 사용
